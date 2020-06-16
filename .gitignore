@@ -118,3 +118,7 @@ DerivedData
 xcuserdata
 
 
+*.o
+*.lo
+.libs
+
